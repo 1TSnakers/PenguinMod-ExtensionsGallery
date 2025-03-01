@@ -333,14 +333,15 @@ export default [
         creator: "enderhacker",
         isGitHub: true,
     },
-    {
-        name: "Online Captcha",
-        description: "Protect your project with simple, easy to use captcha implementation. Fully client-side, bypass-proof captcha solution!",
-        code: "NotHouse/OnlineCaptcha.js",
-        banner: "NotHouse/OnlineCaptcha-banner.png",
-        creator: "enderhacker",
-        isGitHub: true,
-    },
+    // this extension is completely dead as of now
+    // {
+    //     name: "Online Captcha",
+    //     description: "Protect your project with simple, easy to use captcha implementation. Fully client-side, bypass-proof captcha solution!",
+    //     code: "NotHouse/OnlineCaptcha.js",
+    //     banner: "NotHouse/OnlineCaptcha-banner.png",
+    //     creator: "enderhacker",
+    //     isGitHub: true,
+    // },
     {
         name: "Twitch",
         description: "Communicate with your Twitch Chat on PenguinMod!\n\nPenguinMod is not affiliated with Twitch.",
